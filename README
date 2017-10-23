@@ -1,0 +1,3 @@
+Usage:
+make check X=2 N=16 MECHANISM=poll
+MECHANISM: sequential, select, poll, epoll
